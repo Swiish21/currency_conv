@@ -3,7 +3,7 @@
 x = input("Enter currency you have (Ksh/Usd/Euro/Yen/Yuan):\n").lower()
 y = input("Enter currency to convert to (Ksh/Usd/Euro/Yen/Yuan):\n").lower()
 
-z = int(input(f"What amount of {x} do you have exactly:\n"))
+z = int(input(f"What amount of {x} do you have exactly now:\n"))
 
 ksh_usd = 0.0076
 ksh_euro = 0.0070

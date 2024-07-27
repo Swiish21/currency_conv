@@ -133,4 +133,5 @@ if x == "yuan" and y == "yen":
     def converter():
         return yuan_yen * z
 print(f"Your currency is worth {converter()}{y}")
-print("Enf of program!!")
+print("End of program!!")
+print("Exiting program")

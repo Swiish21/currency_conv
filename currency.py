@@ -1,7 +1,7 @@
 # Fixed Rate Currency converter(Python)
 
 x = input("Enter currency you have (Ksh/Usd/Euro/Yen/Yuan):\n").lower()
-y = input("Enter currency to convert to (Ksh/Usd/Euro/Yen/Yuan):\n").lower()
+y = input("Enter currency to convert  (Ksh/Usd/Euro/Yen/Yuan):\n").lower()
 
 z = int(input(f"What amount of {x} do you have exactly now:\n"))
 
